@@ -10,6 +10,7 @@ namespace ASP_MyBiz.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
     }
