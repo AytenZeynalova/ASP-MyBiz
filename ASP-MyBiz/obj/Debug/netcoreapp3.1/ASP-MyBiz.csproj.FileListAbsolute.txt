@@ -106,3 +106,8 @@ C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\Razor\Views\_
 C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\ASP-MyBiz.RazorTargetAssemblyInfo.cs
 C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\ASP-MyBiz.Views.pdb
 C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-MyBiz\ASP-MyBiz\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
